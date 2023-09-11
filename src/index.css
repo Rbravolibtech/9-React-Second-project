@@ -3,9 +3,11 @@
 }
 
 html {
-	font-family: sans-serif;
-	background: rgb(111, 124, 130);
-	font-size: larger;
+	font-family: cursive;
+	background: rgb(16, 16, 17);
+	font-size: x-large;
+	color: black;
+	font-style: italic;
 }
 
 body {
